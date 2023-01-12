@@ -1,0 +1,43 @@
+.celda{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    
+    background-color: #3e3e3e;
+    box-sizing: content-box;
+  }
+  
+  .p-fila{
+    display: flex;
+  }
+  
+  #panel{
+    border: 1px solid black;
+    width: 300px;
+    color: black;
+  }
+  
+  .pieza-larga{
+    display: flex;
+  }
+  .palo{
+    display: wrap;
+  }
+  .ele{
+    text-align: center;
+  }
+  .doblar{
+    display: flex;
+  }
+  .blanco{
+    color: #fff;
+  }
+  .gris{
+    color: rgb(186, 171, 171);
+  }
+  .verde{
+    background-color: #004600;
+  }
+  .vertical{
+    display: wrap;
+  }
